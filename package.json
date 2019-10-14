@@ -16,7 +16,7 @@
     "jquery-ui": "^1.10.5",
     "lodash": "^4.13.1",
     "typeahead.js": "^0.11.1",
-    "snyk": "^1.192.3"
+    "snyk": "^1.231.0"
   },
   "devDependencies": {
     "aliasify": "^2.0.0",
